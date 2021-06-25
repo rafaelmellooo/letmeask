@@ -21,6 +21,8 @@
   ],
   "rules": {
     "no-console": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/button-has-type": "off",
     "import/no-duplicates": "off",
     "react/prop-types": "off",
     "react/require-default-props": "off",
